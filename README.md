@@ -3,7 +3,7 @@
 <h3 align="center">Hey there, I'm Yunus  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <h3 align="center">Join to my DEVOPS Journey
 
- <h3 align="left"> <img src="https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png" width="300">
+ <h3 align="left"> <img src="https://media-exp1.licdn.com/dms/image/C4E03AQENKGDCr-e__A/profile-displayphoto-shrink_800_800/0/1647898550813?e=1653523200&v=beta&t=7KHJOLo9CBmAoRWAhd4LRezR1w_fhT59ZFFjavV8RG4" width="300">
    
 ## < About Me>
 

@@ -3,9 +3,7 @@
 <h3 align="center">Hey there, I'm Yunus  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <h3 align="center">Join to my DEVOPS Journey
 
-<a href="#"><img width="50%" height="auto" src="![image](https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png)" height="75px"/></a>
-
- <h3 align="center"> <img src="https://user-images.githubusercontent.com/96360040/159213110-2fdaf4e9-4a7d-4d47-9fc2-80e08b528d57.gif" width="800">
+ <h3 align="center"> <img src="https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png" width="500">
    
 ## < About Me>
 
